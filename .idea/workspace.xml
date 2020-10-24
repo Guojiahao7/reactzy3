@@ -26,9 +26,15 @@
         <entry file="file://$PROJECT_DIR$/static/css/main.d6b120f0.chunk.css.map">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="1803" selection-start-column="1787" selection-end-column="1803" />
+              <caret column="1628" selection-start-column="1613" selection-end-column="1628" />
             </state>
           </provider>
+          <provider editor-type-id="sourcemapFileViewerProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/runtime-main.7918a0be.js.map">
+          <provider selected="true" editor-type-id="text-editor" />
           <provider editor-type-id="sourcemapFileViewerProvider" />
         </entry>
       </file>
@@ -66,6 +72,7 @@
       <find>image</find>
       <find>bahttps://img.alicdn.com/imgextra/i4/929420007/TB2cM.KdY1YBuNjSszeXXablFXa_!!929420007.jpg_640x640q80_.webp</find>
       <find>background-image</find>
+      <find>.contentList li</find>
     </findStrings>
     <replaceStrings>
       <replace>田园加厚成品客厅卧室少女阳台飘窗落地窗帘免打孔半遮光布料清仓</replace>
@@ -77,9 +84,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/static/css/main.d6b120f0.chunk.css.map" />
         <option value="$PROJECT_DIR$/static/js/main.d60c3c09.chunk.js.map" />
         <option value="$PROJECT_DIR$/static/js/main.c2cffc72.chunk.js.map" />
+        <option value="$PROJECT_DIR$/static/css/main.d6b120f0.chunk.css.map" />
       </list>
     </option>
   </component>
@@ -157,6 +164,13 @@
               <item name="js" type="462c0819:PsiDirectoryNode" />
               <item name="main.d60c3c09.chunk.js" type="620a8d5e:NestingTreeNode" />
             </path>
+            <path>
+              <item name="reactzy3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactzy3" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="runtime-main.7918a0be.js" type="620a8d5e:NestingTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -193,12 +207,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603552306359</updated>
-      <workItem from="1603552307419" duration="1883000" />
+      <workItem from="1603552307419" duration="2136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1883000" />
+    <option name="totallyTimeSpent" value="2136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -229,10 +243,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/static/js/2.96cbb7de.chunk.js.LICENSE.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/runtime-main.7918a0be.js.map">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/service-worker.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -280,14 +290,6 @@
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/main.d60c3c09.chunk.js.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13683" selection-start-column="13683" selection-end-column="13683" />
-        </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/js/main.c2cffc72.chunk.js.map">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -296,10 +298,22 @@
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/main.d60c3c09.chunk.js.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13683" selection-start-column="13683" selection-end-column="13683" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/runtime-main.7918a0be.js.map">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/static/css/main.d6b120f0.chunk.css.map">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="1803" selection-start-column="1787" selection-end-column="1803" />
+          <caret column="1628" selection-start-column="1613" selection-end-column="1628" />
         </state>
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider" />
