@@ -22,37 +22,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/main.d6b120f0.chunk.css.map">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="1628" selection-start-column="1613" selection-end-column="1628" />
+              <caret column="1904" selection-start-column="1810" selection-end-column="1904" />
             </state>
           </provider>
           <provider editor-type-id="sourcemapFileViewerProvider" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/js/runtime-main.7918a0be.js.map">
-          <provider selected="true" editor-type-id="text-editor" />
-          <provider editor-type-id="sourcemapFileViewerProvider" />
+        <entry file="file://$PROJECT_DIR$/static/css/main.d6b120f0.chunk.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12938" selection-start-column="12938" selection-end-column="12938" />
+              <folding>
+                <element signature="e#146#12329#2" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/js/main.c2cffc72.chunk.js.map">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="23352" selection-start-column="23352" selection-end-column="23352" />
-            </state>
-          </provider>
-          <provider editor-type-id="sourcemapFileViewerProvider" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/js/main.d60c3c09.chunk.js.map">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13683" selection-start-column="13683" selection-end-column="13683" />
             </state>
           </provider>
           <provider editor-type-id="sourcemapFileViewerProvider" />
@@ -87,6 +83,7 @@
         <option value="$PROJECT_DIR$/static/js/main.d60c3c09.chunk.js.map" />
         <option value="$PROJECT_DIR$/static/js/main.c2cffc72.chunk.js.map" />
         <option value="$PROJECT_DIR$/static/css/main.d6b120f0.chunk.css.map" />
+        <option value="$PROJECT_DIR$/static/css/main.d6b120f0.chunk.css" />
       </list>
     </option>
   </component>
@@ -100,7 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="654" />
     <option name="y" value="9" />
     <option name="width" value="697" />
@@ -118,6 +115,11 @@
             <path>
               <item name="reactzy3" type="b2602c69:ProjectViewProjectNode" />
               <item name="reactzy3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactzy3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactzy3" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="reactzy3" type="b2602c69:ProjectViewProjectNode" />
@@ -207,15 +209,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603552306359</updated>
-      <workItem from="1603552307419" duration="2136000" />
+      <workItem from="1603552307419" duration="2429000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2136000" />
+    <option name="totallyTimeSpent" value="2429000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -276,12 +278,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/2.f98a1de1.chunk.css.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8924" />
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/js/2.85ef221b.chunk.js.map">
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
@@ -290,12 +286,29 @@
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/main.c2cffc72.chunk.js.map">
+    <entry file="file://$PROJECT_DIR$/static/css/2.f98a1de1.chunk.css.map">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23352" selection-start-column="23352" selection-end-column="23352" />
+        <state relative-caret-position="115">
+          <caret column="32609" selection-start-column="32609" selection-end-column="32609" />
         </state>
       </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/2.f98a1de1.chunk.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/main.d6b120f0.chunk.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1904" selection-start-column="1810" selection-end-column="1904" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/runtime-main.7918a0be.js.map">
+      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/main.d60c3c09.chunk.js.map">
@@ -306,14 +319,23 @@
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/runtime-main.7918a0be.js.map">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/main.d6b120f0.chunk.css.map">
+    <entry file="file://$PROJECT_DIR$/static/css/main.d6b120f0.chunk.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="1628" selection-start-column="1613" selection-end-column="1628" />
+          <caret column="12938" selection-start-column="12938" selection-end-column="12938" />
+          <folding>
+            <element signature="e#146#12329#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/item.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/main.c2cffc72.chunk.js.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23352" selection-start-column="23352" selection-end-column="23352" />
         </state>
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider" />
